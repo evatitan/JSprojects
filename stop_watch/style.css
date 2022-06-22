@@ -1,0 +1,26 @@
+body{
+  background-color: #F57800;
+  color: #FCFAFD;
+  font-size: 2em;
+  text-align: center;
+}
+p{
+  font-size: 2em;
+  margin: 80px auto;
+}
+
+button{
+  font-size: 1em;
+  color: #FCFAFD;
+  background-color: #F57800;
+  border-radius: 5%;
+  padding: 10px 20px;
+  text-decoration: none;
+  border: solid 1px #FCFAFD;
+  margin: 10px;
+}
+
+button:hover{
+  background-color: #FCFAFD;
+  color:#F57800 ;
+}
