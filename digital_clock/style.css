@@ -1,0 +1,21 @@
+body{
+  background-color: black;
+  color:#07F0E9;
+  text-align: center;
+  justify-content: center;
+  font-size: 2em;
+  display: flex;
+  height: 100vh;
+}
+
+.wrapper{
+  margin: 60px;
+}
+
+#time{
+  margin-top: 100px;
+}
+
+#dayTime{
+  margin-top: 50px;
+}
