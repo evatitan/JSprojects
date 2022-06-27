@@ -1,0 +1,26 @@
+body{
+  text-align: center;
+}
+
+#container {
+	max-width: 600px;
+	margin: 0 auto;
+	padding-top: 20px;
+
+}
+.square {
+	width: 30%;
+	background-color: white;
+	padding-bottom: 30%;
+	float: left;
+	margin: 1.66%;
+} 
+
+.selected {
+	background-color: #2C8E99;
+	color: white;
+}
+
+.square {
+	border-radius: 20%;
+}
