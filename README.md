@@ -8,3 +8,5 @@ digital clock with JavaScript is a relatively easy small project to practice var
 Start with just a few basic operators and buttons for:Additions,Subtractions,Multiplications,Divisions.
 ## Guess the color
 The player has to click on a color they think matches the RGB value.
+## tip calculator
+A tip calculator
