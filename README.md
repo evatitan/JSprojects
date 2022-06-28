@@ -10,3 +10,5 @@ Start with just a few basic operators and buttons for:Additions,Subtractions,Mul
 The player has to click on a color they think matches the RGB value.
 ## tip calculator
 A tip calculator
+## todo list
+Use JavaScript and HTML, CSS to make a dynamic, interactive lists where users can add, edit, delete and remove items.
