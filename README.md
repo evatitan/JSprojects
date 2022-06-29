@@ -12,3 +12,7 @@ The player has to click on a color they think matches the RGB value.
 A tip calculator
 ## todo list
 Use JavaScript and HTML, CSS to make a dynamic, interactive lists where users can add, edit, delete and remove items.
+## Palindrome Check
+To check if a word or sentence if a palindrome and show the result under.
+
+
